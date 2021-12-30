@@ -1,0 +1,38 @@
+{
+  "name": "qbadges",
+  "version": "0.0.1",
+  "description": "Fectch all your Qwikilabs badges",
+  "main": "index.js",
+  "preview": true,
+  "scripts": {
+    "test": "node ./test/sandbox.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRAVO68WEB/qbadges.git"
+  },
+  "keywords": [
+    "qbadges",
+    "Qwikilabs",
+    "Google",
+    "Cloud",
+    "gcp",
+    "learn",
+    "badges",
+    "webscrape",
+    "JSON"
+  ],
+  "author": "BRAVO68WEB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BRAVO68WEB/qbadges/issues"
+  },
+  "homepage": "https://github.com/BRAVO68WEB/qbadges#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "tape": "^5.4.0",
+    "urldecode": "^1.0.1"
+  }
+}
