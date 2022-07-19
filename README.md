@@ -17,8 +17,7 @@
 
 > Fectch all your Qwikilabs badges
 
-### 🏠 [Homepage](https://github.com/BRAVO68WEB/qbadges#readme)
-
+### 🏠 [Homepage](https://github.com/BRAVO68WEB/qbadges#readme) [![Verified on Openbase](https://badges.openbase.com/js/verified/qbadges.svg?style=openbase)](https://openbase.com/js/qbadges?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 ## Install
 
 ```sh
